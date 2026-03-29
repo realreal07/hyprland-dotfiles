@@ -1,4 +1,4 @@
-# Complete System Dotfiles
+# Complete system dotfiles
 
 ## Includes
  - hyprland.conf
